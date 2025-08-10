@@ -45,7 +45,7 @@ Control it from your phone via **HTTP Shortcuts** — search → download → wa
 
 2. **Open in Visual Studio**  
    - Launch **Visual Studio 2022** (or newer) with C++ development tools installed  
-   - Open the `NoLimitMovies.sln` solution file
+   - Open the `No Limit Movies - Public.sln` solution file
 
 3. **Add your credentials**  
    - In the source code, find the section with Jackett, qBittorrent, and MPV settings  
